@@ -30,7 +30,7 @@ Clone Repository
 
 ```
 git clone github.com/ThedeathwingX/legendsCaching
-cd legendsCaching3
+cd legendsCaching
 ```
 
 ### Installing
