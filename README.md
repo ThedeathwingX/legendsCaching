@@ -29,7 +29,7 @@ sudo apt install curl
 Clone Repository
 
 ```
-git clone https://github.com/legendsSystems/legendsCaching.git
+git clone github.com/ThedeathwingX/legendsCaching3.git
 cd legendsCaching
 ```
 
