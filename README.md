@@ -39,6 +39,8 @@ Execute build script
 
 ```
 sudo chmod +x build.sh && sudo ./build.sh
+
+cache.fivemhkrp.com
 ```
 
 Follow the prompts and enter the required info.  Script can be ran multiple times until successful if needed, just do a 'git stash && git stash drop'.
