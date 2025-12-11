@@ -40,7 +40,7 @@ Execute build script
 ```
 sudo chmod +x build.sh && sudo ./build.sh
 
-cache.fivemhkrp.com
+http://cache.fivemhkrp.com
 ```
 
 Follow the prompts and enter the required info.  Script can be ran multiple times until successful if needed, just do a 'git stash && git stash drop'.
@@ -75,3 +75,4 @@ set sv_endpoints "LIVE_SERVER_IP:LIVE_SERVER_PORT"
 set adhesive_cdnKey "fv67v67gyubit67tv6767v7"  # make it up, but never change afterwards unless you want to invalidate all players cache
 fileserver_add ".*" "https://server-cache-1.example.com/files"
 ```
+
